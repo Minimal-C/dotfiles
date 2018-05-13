@@ -1,0 +1,33 @@
+{
+    "editor.fontFamily": "consolas, Inconsolata, DejaVu Sans Mono, monospace",
+    "editor.fontSize": 14,
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.find.autoFindInSelection": true,
+    "editor.autoClosingBrackets": false,
+    "editor.dragAndDrop": false,
+    "editor.rulers": [100],
+
+    "window.menuBarVisibility": "toggle",
+
+    "zenMode.hideTabs": false,
+
+    "explorer.confirmDragAndDrop": false,
+
+    "search.smartCase": true,
+
+    "terminal.integrated.scrollback": 5000,
+
+    "telemetry.enableTelemetry": false,
+
+    "C_Cpp.intelliSenseEngine": "Default",
+
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.autoComplete.preloadModules": [
+        "numpy"
+    ],
+    
+    "extensions.ignoreRecommendations": true
+}
